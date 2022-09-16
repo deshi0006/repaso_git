@@ -1,0 +1,1 @@
+este es un footer nuevo en un archivo distinto para el proyecto repaso_git
