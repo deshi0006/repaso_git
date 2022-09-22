@@ -1,1 +1,3 @@
 este es un footer nuevo en un archivo distinto para el proyecto repaso_git
+
+Se agrega comentario en el footer, este cambio se solicita para validar el pull request, cambio realizado desde el editor.
