@@ -4,3 +4,5 @@ prueba texto simple
 prueba para segundo commit
 
 Se agrega comentario para fork
+
+Cambio hecho en repositorio original, que deberían tambien actualizar los repositorios fork.
