@@ -14,11 +14,8 @@ Experimento 2
 Master 1
 
 Master 2
-<<<<<<< HEAD
-=======
 
 
 texto para commit 1 de prueba de cherry-pick
 
 texto para commit 2 de prueba de cherry-pick
->>>>>>> 3a1cfda (commit 2 de prueba de cherry-pick)
